@@ -1,0 +1,13 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-logo="http://server7.redecanais.tv/imgs-videos/Friends1.jpg" group-title="series", FRIENDST01EP01
+http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer07/ondemand/FRIENDST01EP01.mp4
+#EXTINF:-1 tvg-logo="http://server7.redecanais.tv/imgs-videos/Friends1.jpg" group-title="series", FRIENDST01EP02
+http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer07/ondemand/FRIENDST01EP02.mp4
+#EXTINF:-1 tvg-logo="http://server7.redecanais.tv/imgs-videos/Friends1.jpg" group-title="series", FRIENDST01EP03
+http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer07/ondemand/FRIENDST01EP03.mp4
+#EXTINF:-1 tvg-logo="http://server7.redecanais.tv/imgs-videos/Friends1.jpg" group-title="series", FRIENDST01EP04
+http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer07/ondemand/FRIENDST01EP04.mp4
+#EXTINF:-1 tvg-logo="http://server7.redecanais.tv/imgs-videos/Friends1.jpg" group-title="series", FRIENDST01EP05
+http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer07/ondemand/FRIENDST01EP05.mp4
